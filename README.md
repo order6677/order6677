@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm Awadh  Hassan Awadh </h1>
 
-<h1> Just graduated from Moringa, ready to start my first internship experience!<h1>
+<h1>a fullstack developer from Kenya<h1>
 
 
 
