@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm Awadh  Hassan Awadh </h1>
 
-<h1 align="center">a fullstack developer from Kenya<h1>
+<h1 align="center">a junior fullstack developer from Kenya<h1>
 
 
 
